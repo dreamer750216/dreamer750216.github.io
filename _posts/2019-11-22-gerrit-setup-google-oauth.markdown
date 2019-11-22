@@ -11,9 +11,9 @@ description: setup google oauth on AWS EC2
 >
 go to [Google APIs][google-apis]  
 go to OAuth consent screen  
-setup Authorized domains ex.xxxxxx.ddns.net  
+setup Authorized domains ex.YOUR_DOMAIN.ddns.net  
 go to credentials  
-setup Authorized redirect URIs ex.http://xxxxxxx:8080/oauth  
+setup Authorized redirect URIs ex.http://YOUR_DOMAIN:8081/oauth  
 
 ###  **2. Setup google login plugin**
 >

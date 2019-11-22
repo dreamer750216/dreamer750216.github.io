@@ -17,9 +17,9 @@ install"Google Login"
 >
 go to [Google APIs][google-apis]  
 go to OAuth consent screen  
-setup Authorized domains ex.xxxxxx.ddns.net  
+setup Authorized domains ex.YOUR_DOMAIN.ddns.net  
 go to credentials  
-setup Authorized redirect URIs ex.http://xxxxxxx:8080/securityRealm/finishLogin  
+setup Authorized redirect URIs ex.http://YOUR_DOMAIN:8081/securityRealm/finishLogin  
 
 ###  **3. Setup google login plugin**
 >

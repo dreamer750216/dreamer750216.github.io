@@ -23,7 +23,7 @@ java -jar gerrit*.war init --batch --dev -d $GERRIT_SITE
 ###  **2. Edit gerrit.config**
 >
 vim ../gerrit_site/etc/gerrit.config  
-canonicalWebUrl = http://gerrit750216.ddns.net:8081/  
+canonicalWebUrl = http://YOUR_DOMAIN:8081/  
 listenUrl = http://*:8081  
 
 ###  **4. Restart gerrit**
