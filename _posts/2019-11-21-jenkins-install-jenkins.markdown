@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "[Jenkins] install jenkins"
-categories: Programmer
-tags: Jenkins
+title:  "install jenkins"
+categories: Jenkins
 author: DreAmeR
 description: install jenkins on AWS EC2
 ---

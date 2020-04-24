@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "[Gerrit] install gerrit"
-categories: Programmer
-tags: Gerrit
+title:  "install gerrit"
+categories: Gerrit
 author: DreAmeR
 description: install gerrit on AWS EC2
 ---

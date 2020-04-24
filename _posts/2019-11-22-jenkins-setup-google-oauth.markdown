@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "[Jenkins] setup google oauth"
-categories: Programmer
-tags: Jenkins
+title:  "setup google oauth"
+categories: Jenkins
 author: DreAmeR
 description: setup google oauth on AWS EC2
 ---

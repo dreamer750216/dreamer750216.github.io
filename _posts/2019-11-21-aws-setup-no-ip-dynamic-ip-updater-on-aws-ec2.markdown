@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "[AWS] setup no-ip dynamic ip updater on AWS EC2"
-categories: Programmer
-tags: AWS
+title:  "setup no-ip dynamic ip updater on AWS EC2"
+categories: AWS
 author: DreAmeR
 description: setup noip dynamic ip updater
 ---

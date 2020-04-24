@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "[Jenkins] github trigger"
-categories: Programmer
-tags: Jenkins
+title:  "github trigger"
+categories: Jenkins
 author: DreAmeR
 description: github trigger
 ---

@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "[Gerrit] setup google oauth"
-categories: Programmer
-tags: Gerrit
+title:  "setup google oauth"
+categories: Gerrit
 author: DreAmeR
 description: setup google oauth on AWS EC2
 ---
